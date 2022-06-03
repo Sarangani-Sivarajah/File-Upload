@@ -1,0 +1,78 @@
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\appsettings.Development.json
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\appsettings.json
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\FileUpload.staticwebassets.runtime.json
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\FileUpload.exe
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\FileUpload.deps.json
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\FileUpload.runtimeconfig.json
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\FileUpload.dll
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\ref\FileUpload.dll
+E:\Dotnet Tutorials\Projects\FileUpload\bin\Debug\net6.0\FileUpload.pdb
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.csproj.AssemblyReference.cache
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.AssemblyInfoInputs.cache
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.AssemblyInfo.cs
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.csproj.CoreCompileInputs.cache
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.MvcApplicationPartsAssemblyInfo.cache
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.RazorAssemblyInfo.cache
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.RazorAssemblyInfo.cs
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\scopedcss\bundle\FileUpload.styles.css
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\scopedcss\projectbundle\FileUpload.bundle.scp.css
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.dll
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\ref\FileUpload.dll
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.pdb
+E:\Dotnet Tutorials\Projects\FileUpload\obj\Debug\net6.0\FileUpload.genruntimeconfig.cache
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\appsettings.json
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.staticwebassets.runtime.json
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.exe
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.deps.json
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.runtimeconfig.json
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.dll
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\ref\FileUpload.dll
+C:\Users\shobish\Desktop\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.pdb
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.csproj.AssemblyReference.cache
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.AssemblyInfoInputs.cache
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.AssemblyInfo.cs
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.csproj.CoreCompileInputs.cache
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.RazorAssemblyInfo.cache
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.RazorAssemblyInfo.cs
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\scopedcss\bundle\FileUpload.styles.css
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\scopedcss\projectbundle\FileUpload.bundle.scp.css
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.dll
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\ref\FileUpload.dll
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.pdb
+C:\Users\shobish\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.genruntimeconfig.cache
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\appsettings.Development.json
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\appsettings.json
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.staticwebassets.runtime.json
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.exe
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.deps.json
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.runtimeconfig.json
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.dll
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\ref\FileUpload.dll
+S:\2nd yr project\FileUpload\FileUpload\bin\Debug\net6.0\FileUpload.pdb
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.csproj.AssemblyReference.cache
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.GeneratedMSBuildEditorConfig.editorconfig
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.AssemblyInfoInputs.cache
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.AssemblyInfo.cs
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.csproj.CoreCompileInputs.cache
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.MvcApplicationPartsAssemblyInfo.cache
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.RazorAssemblyInfo.cache
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.RazorAssemblyInfo.cs
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\staticwebassets.build.json
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\staticwebassets.development.json
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\scopedcss\bundle\FileUpload.styles.css
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\scopedcss\projectbundle\FileUpload.bundle.scp.css
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.dll
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\ref\FileUpload.dll
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.pdb
+S:\2nd yr project\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.genruntimeconfig.cache
